@@ -8,4 +8,6 @@ and his walkthroughs:</br>
 http://lathonez.com/2016/ionic-2-unit-testing/ <br>
 http://lathonez.github.io/2016/ionic-2-e2e-testing/
 
-Running the test `npm run e2e`
+Start with `ionic serve` in another terminal window
+
+Run the test `npm run e2e`
